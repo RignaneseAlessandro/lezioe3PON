@@ -1,0 +1,22 @@
+body{
+    background-color: red ;
+}
+h1 {
+    color:aqua;
+    text-align:center ;
+}
+h2 {
+    color:aqua;
+    text-align:right ;
+}
+img.sinistra{
+    width: 300px;
+    border-radius: 50px;
+    float:left
+; 
+    margin: 25px;
+    
+}
+em{
+    color: purple;
+}
